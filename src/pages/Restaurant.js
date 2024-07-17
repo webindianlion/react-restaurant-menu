@@ -26,7 +26,7 @@ const Restaurant = function(){
 
     return <div className="container">
         <div className="App mt-5">
-        <h2 className="mt-3">This is Restaurant Menu App</h2>
+        <h2 className="mt-3 app-ttl">Menu App</h2>
         
         <nav className="navbar navbar-expand-md">
           <div className="container-fluid">
